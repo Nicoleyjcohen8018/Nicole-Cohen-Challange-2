@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2757B71D-C10A-08B8-3F69-D9BEA11CF13E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/enemyScript.cs">
+    <Files>
+      <File FileName="Assets/script/playerscript.cs" Line="85" Column="1" />
+      <File FileName="Assets/script/camerascript.cs" Line="16" Column="1" />
+      <File FileName="Assets/script/enemyScript.cs" Line="40" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="04652f13-1aa2-4ddd-9baa-99e1b8f86064" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
